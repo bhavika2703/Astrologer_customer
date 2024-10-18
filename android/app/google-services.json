@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "741533313381",
+    "firebase_url": "https://bhavishydarpan-cd2ba-default-rtdb.firebaseio.com",
+    "project_id": "bhavishydarpan-cd2ba",
+    "storage_bucket": "bhavishydarpan-cd2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741533313381:android:0c4b72d6932f9e0c97598c",
+        "android_client_info": {
+          "package_name": "com.bhavishydarpan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZiJUpXN9N7ZN0m4dv1jI40obDAczJwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
